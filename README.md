@@ -4,17 +4,17 @@ Anotações das aulas de Análise e Desenvolvimento de Sistemas na FIAP
 
 ## Conteudo do Curso
 
-* Algoritmo - introducao e estrutura
-* Entrada e saida
-* Variaveis, operadores aritmeticos e de comparacao
+* Algoritmo - introdução e estrutura
+* Entrada e saída
+* Variaveis, operadores aritméticos e de comparação
 * Comandos condicionais e operadores booleanos
-* Comandos de repeticao
-* Funcoes e escopo de variaveis
+* Comandos de repetição
+* Funções e escopo de variaveis
 * Vetores
 * Matrizes
 * Pilha e Fila
 * Busca
-* Ordenacao
+* Ordenação
 
 ## Professor Eduardo Gondo
 
