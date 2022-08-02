@@ -9,4 +9,5 @@ def inserir(palavra):
     return nova
 
 resp = inserir(palavra)
+
 print(resp)
