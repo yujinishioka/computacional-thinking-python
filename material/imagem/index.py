@@ -20,6 +20,8 @@
 # print("Finalizado")
 #
 
+# # Alterando imagem colorida
+#
 import Imagem
 
 matrizes = Imagem.getMatrizImagemColorida('./img/lago_canada.jpg')
