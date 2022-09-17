@@ -14,7 +14,6 @@ def selection_sort(conj):
         conj[j] = conj[i]
         conj[i] = aux
 
-
 vetor = [2, 5, -7, 9, 3, 10, 15, 6]
 selection_sort(vetor)
 print(vetor)
