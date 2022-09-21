@@ -19,21 +19,18 @@ while ce != 0:
                 f.cadastrar_candidato()
 
             elif op == 2:
-                f.perfil_candidato()
-
-            elif op == 3:
                 f.buscar_candidato()
 
-            elif op == 4:
+            elif op == 3:
                 f.mostrar_resultados()
 
-            elif op == 5:
+            elif op == 4:
                 f.plataforma_vagas()
 
-            elif op == 6:
+            elif op == 5:
                 f.cursos_recomendados()
 
-            elif op == 7:
+            elif op == 6:
                 f.feedback()
 
             else:
@@ -53,22 +50,37 @@ while ce != 0:
             if op == 1:
                 f.cadastrar_empresa()
             
-            if op == 2:
+            elif op == 2:
                 f.cadastrar_vagas()
             
-            if op == 3:
+            elif op == 3:
                 f.cadastrar_teste()
             
-            if op == 4:
+            elif op == 4:
                 f.buscar_candidato()
             
-            if op == 5:
+            elif op == 5:
                 f.plataforma_filtragem()
             
             else:
                 print(txt_inv)
             
             f.mostrar_opcao_empresa()
+            op = int(input(txt_op))
+
+    elif ce == 3:
+        print("Opção sistema selecionada!")
+        f.mostrar_opcao_sistema()
+        op = int(input(txt_op))
+
+        while op != 0:
+            if op == 1:
+                f.cadastrar_curso()
+            
+            else:
+                print(txt_inv)
+            
+            f.mostrar_opcao_sistema()
             op = int(input(txt_op))
 
     else:
