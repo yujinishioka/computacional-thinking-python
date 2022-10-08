@@ -1,8 +1,8 @@
-def somar(n):
-    resto = n % 10
-    if n / 10 < 1:
+def soma(n):
+    if n < 10:
         return n
     else:
-        return resto + somar(n // 10)
+        resto = n % 10
+        return resto + soma(n // 10)
 
-print(somar(10928940))
+print(soma(10928940))
