@@ -1,0 +1,13 @@
+Resposta do Cacao Palavra:
+
+1. espanha se encontra na linha 10 e coluna 9 na diagonal a esquerda e para baixo.
+2. holanda se encontra na linha 17 e coluna 33 na horizontal invertida.
+3. alemanha se encontra na linha 11 e coluna 12 na diagonal a direita e para cima.
+4. italia se encontra na linha 18 e coluna 24 na vertical.
+5. inglaterra se encontra na linha 34 e coluna 8 na horizontal.
+6. mexico se encontra na linha 23 e coluna 29 na vertical.
+7. brasil se encontra na linha 29 e coluna 12 na horizontal.
+8. paraguai se encontra na linha 27 e coluna 5 na horizontal.
+9. chile se encontra na linha 22 e coluna 33 na vertical invertida.
+10. camaroes se encontra na linha 8 e coluna 33 na horizontal invertida.
+11. japao se encontra na linha 35 e coluna 35 na diagonal a esquerda e para cima.
