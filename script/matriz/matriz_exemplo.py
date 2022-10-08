@@ -11,7 +11,7 @@ def soma(ma, mb):
             resp.append([0] * col)
         
         for i in range(lin):
-            for i in range(col):
+            for j in range(col):
                 resp[i][j] = ma[i][j] + mb[i][j]
         
         return resp
